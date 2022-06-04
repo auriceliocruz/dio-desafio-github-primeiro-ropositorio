@@ -1,0 +1,18 @@
+github
+dir: listar pastas
+cls:Limpar terminal.
+mkdir: criar pasta
+del: deletar arquuivo
+rmdir: delatar pasta
+
+git
+git int
+git add
+git add nomeArquivo
+git add*
+git commmit
+-a= mostra arquivos oculto
+mv- mover
+git status- ver o arquivo
+ECHO: CRIAR ARQUIVO
+git push origin master
